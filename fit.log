@@ -1,0 +1,184 @@
+
+
+*******************************************************************************
+Fri Apr 26 00:34:54 2024
+
+
+FIT:    data read from 'C:\Users\FRAN\Desktop\FisicaComputacional\Tema7\7-34-ffc\7-34-a-drms-ffc.dat' u 1:3
+        format = x:z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+
+
+*******************************************************************************
+Fri Apr 26 00:35:11 2024
+
+
+FIT:    data read from 'C:\Users\FRAN\Desktop\FisicaComputacional\Tema7\7-34-ffc\7-34-a-drms-ffc.dat' u 1:3
+        format = x:z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 92.0499           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 22.3719
+
+initial set of free parameter values
+
+m               = 1
+
+After 2 iterations the fit converged.
+final sum of squares of residuals : 51.1072
+rel. change during last iteration : -7.99514e-007
+
+degrees of freedom    (FIT_NDF)                        : 999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.226182
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0511584
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 1.00904          +/- 0.0003197    (0.03168%)
+
+
+correlation matrix of the fit parameters:
+
+               m      
+m               1.000 
+
+
+*******************************************************************************
+Fri Apr 26 00:35:54 2024
+
+
+FIT:    data read from 'C:\Users\FRAN\Desktop\FisicaComputacional\Tema7\7-34-ffc\7-34-b-drms-ffc.dat' u 1:3
+        format = x:z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 83904.8           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 22.3719
+
+initial set of free parameter values
+
+m               = 1.00904
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 12.7332
+rel. change during last iteration : -6.58329e-013
+
+degrees of freedom    (FIT_NDF)                        : 999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.112898
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0127459
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 0.599635         +/- 0.0001596    (0.02661%)
+
+
+correlation matrix of the fit parameters:
+
+               m      
+m               1.000 
+
+
+*******************************************************************************
+Fri Apr 26 00:37:04 2024
+
+
+FIT:    data read from 'C:\Users\FRAN\Desktop\FisicaComputacional\Tema7\7-34-ffc\7-34-b-acortado-drms-ffc.dat' u 1:3
+        format = x:z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 141950            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 22.3719
+
+initial set of free parameter values
+
+m               = 0.599635
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.755206
+rel. change during last iteration : -1.87591e-011
+
+degrees of freedom    (FIT_NDF)                        : 999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0274948
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000755962
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 0.0670797        +/- 3.886e-005   (0.05794%)
+
+
+correlation matrix of the fit parameters:
+
+               m      
+m               1.000 
+
+
+*******************************************************************************
+Fri Apr 26 00:37:48 2024
+
+
+FIT:    data read from 'C:\Users\FRAN\Desktop\FisicaComputacional\Tema7\7-34-ffc\7-34-a-acortado-drms-ffc.dat' u 1:3
+        format = x:z
+        #datapoints = 1000
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 884.539           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 22.3719
+
+initial set of free parameter values
+
+m               = 0.0670797
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 0.785871
+rel. change during last iteration : -1.11888e-013
+
+degrees of freedom    (FIT_NDF)                        : 999
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0280474
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.000786657
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+m               = 0.1091           +/- 3.965e-005   (0.03634%)
+
+
+correlation matrix of the fit parameters:
+
+               m      
+m               1.000 
